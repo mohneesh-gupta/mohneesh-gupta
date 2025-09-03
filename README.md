@@ -1,58 +1,83 @@
-# 👨‍💻 Mohneesh Gupta — Resume Overview
+<h1 align="center">Hi 👋, I'm Mohneesh Gupta</h1>
+<h3 align="center">A passionate Full Stack Developer & DSA Enthusiast from India</h3>
 
-Welcome to my resume repository! I’m Mohneesh Gupta, a passionate Computer Science and Engineering undergraduate at Technocrats Institute of Technology, Bhopal. I love building impactful web applications, solving real-world problems through technology, and continuously exploring innovative solutions.
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=mohneesh-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohneesh-gupta" /> 
+</p>
+
+- 🔭 I’m currently working on **scalable full-stack projects using MERN**
+
+- 🌱 I’m currently learning **Data Structures using JAVA**
+
+- 👯 I’m open to collaborate on **Open Source, Hackathons, MERN stack projects and organizing events together**
+
+- 💬 Ask me about **Java, DSA, React, Node.js, MongoDB, Git**
+
+- 👨‍💻 All of my projects are available at [github.com/mohneesh-gupta](https://github.com/mohneesh-gupta)
+
+- 📫 Reach me at **work.mohneesh@gmail.com**
+
+- ⚡ Fun fact: **My code is smoother than my life 😄**
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohneesh-gupta/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/mohneesh_gupta/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
-## 📌 About Me
-
-- 🎓 B.Tech in Computer Science (2023 – Present)
-- 🏫 Alumni of Jawahar Navodaya Vidyalaya, Satna
-- 💼 Aspiring Full-Stack Developer | MERN Stack | Problem Solver
-- 🧠 Competitive Coder with 450+ problems solved on CodeChef and 120+ on GeeksforGeeks
-- 🛠️ Tech Stack: Java, C++, HTML, CSS, JavaScript, React, Node.js, MongoDB, Express.js, Bootstrap
-
----
-
-## 🚀 Featured Projects
-
-### 🔍 [CivicLens](https://civiclens-mythbusters.netlify.app/)
-A web platform for reporting local community issues.
-- Technologies: HTML, CSS, JavaScript, Bootstrap, REST APIs
-- Dynamic form submissions and issue tracking system
-
-### 📈 [DigitalMedia](https://digitalmedia-mohneesh.netlify.app/)
-Helping businesses grow their online presence.
-- Technologies: HTML, CSS, JavaScript, Tailwind CSS
-- Showcases services, testimonials, and a contact portal
-
-### 👤 [Portfolio](https://mohneesh-portfolio.netlify.app/)
-A sleek personal portfolio website.
-- Fully responsive layout with smooth animations
-- Highlights skills, projects, and contact details
-
-### 🌐 [Dev Comm Website](https://tit-dev-community.netlify.app/)
-Community website to promote collaboration in tech.
-- Clean UI/UX with blog posts, event listings, and discussion forum
-
-### 📚 [StudySphere](https://github.com/mohneesh-gupta/StudySphere)
-Online study platform developed for the MANIT Hackathon.
-- Real-time group chat and collaboration using Socket.io
-- Secure login and user sessions
-
-### 🎮 Mini Games
-- [Tic Tac Toe](https://mohneeshgupta-tictactoe.netlify.app/)
-- [Stone Paper Scissors](https://mohneesh-stonepaper.netlify.app/)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> 
+  </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/> 
+  </a> 
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
+  </a> 
+</p>
 
 ---
+
+<h3 align="left">GitHub Stats:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohneesh-gupta&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohneesh-gupta&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohneesh-gupta" alt="GitHub Streak" /></p>
 
 ## 🏆 Achievements
 
 - 🏅 Microsoft Learn Student Ambassador
 - 🏆 Finalist in 3 Major Hackathons
-- 🥈 Runner-up at Version Beta Hackathon 2024 (MANIT Bhopal)
-- 📜 Completed Accenture Virtual Internship via Forage
-- 📜 IBM Certified in Communication Skills
+- 🥈 Founder - Knowvy Technologies
 
 ---
 
