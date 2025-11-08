@@ -5,6 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohneesh-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohneesh-gupta" /> 
 </p>
 
+- ⭐ Check out my latest portfolio - [here](https://dynamic-portfolio-frontend-3ovi.onrender.com/)
 - 🔭 I’m currently working on **scalable full-stack projects using MERN**
 
 - 🌱 I’m currently learning **Data Structures using JAVA**
@@ -75,9 +76,10 @@
 
 ## 🏆 Achievements
 
-- 🏅 Microsoft Learn Student Ambassador
+- 🏅 Microsoft Learn Student Ambassador and Google Student Ambassador.
+- ✨ Secured 9th rank in Version Beta 7.0 Hackathon with my team.
 - 🏆 Finalist in 3 Major Hackathons
-- 🥈 Founder - Knowvy Technologies
+- 🥈 Team Lead and Event Organizer - Knowvy Technologies
 
 ---
 
@@ -87,6 +89,10 @@
 - Involved in drone-building projects and campus tech initiatives
 - Developed leadership, communication, and collaboration skills
 
+### Event Organizer — Knowvy Technologies
+- Organising Events, Sessions, Hackathons
+- Partnering communities and Industry Experts
+
 ---
 
 ## 📫 Connect With Me
@@ -94,6 +100,7 @@
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohneesh-gupta)
 - 💻 [GitHub](https://github.com/mohneesh-gupta)
 - 🌐 [Portfolio](https://mohneesh-portfolio.netlify.app)
+- ⭐ [Portfolio](https://dynamic-portfolio-frontend-3ovi.onrender.com/)
 - 📧 work.mohneesh@gmail.com
 
 ---
