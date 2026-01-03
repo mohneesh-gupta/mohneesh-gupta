@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mohneesh-gupta&label=Profile%20views&color=0e75b6&style=flat" alt="mohneesh-gupta" /> 
 </p>
 
-- ⭐ Check out my latest portfolio - [here](https://dynamic-portfolio-frontend-3ovi.onrender.com/)
+- ⭐ Check out my latest portfolio - [here](https://mohneesh.xyz/)
 - 🔭 I’m currently working on **scalable full-stack projects using MERN**
 
 - 🌱 I’m currently learning **Data Structures using JAVA**
@@ -99,8 +99,8 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/mohneesh-gupta)
 - 💻 [GitHub](https://github.com/mohneesh-gupta)
-- 🌐 [Portfolio](https://mohneesh-portfolio.netlify.app)
-- ⭐ [Portfolio](https://dynamic-portfolio-frontend-3ovi.onrender.com/)
+- 🌐 [Portfolio](https://mohneesh.xyz)
+- ⭐ [Portfolio](https://mohneesh.xyz/)
 - 📧 work.mohneesh@gmail.com
 
 ---
