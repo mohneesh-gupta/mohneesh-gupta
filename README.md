@@ -1,4 +1,4 @@
-# <h1 align="center">🚀 Mohneesh Gupta </h1>
+# <h1 align="center">Mohneesh Gupta | Full Stack MERN Developer | AWS Cloud</h1>
 <h3 align="center">
 Full Stack MERN Developer | AWS Cloud Architect | Data Structures & Algorithms Enthusiast | Open Source Contributor 
 </h3>
@@ -28,6 +28,7 @@ I actively contribute to **Open Source**, participate in **Hackathons**, and org
 - 💬 Ask me about **Java, DSA, React, Node.js, MongoDB, Git, REST APIs**
 - 👯 Open to collaborating on **MERN projects, Open Source & Hackathons**
 - ⚡ Fun fact: *My code is smoother than my life 😄*
+- 🔗 Official GitHub Profile: https://github.com/mohneesh-gupta
 
 ---
 
